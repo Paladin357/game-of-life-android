@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Game of Life</string>
+    <string name="score_label">SCORE</string>
+    <string name="alive_label">ALIVE CELLS</string>
+    <string name="gen_label">GENERATION</string>
+    <string name="high_score_label">BEST</string>
+    <string name="play">PLAY</string>
+    <string name="pause">PAUSE</string>
+    <string name="step">STEP</string>
+    <string name="clear">CLEAR</string>
+    <string name="random">RANDOM</string>
+    <string name="preset">PRESETS</string>
+    <string name="speed">SPEED</string>
+</resources>

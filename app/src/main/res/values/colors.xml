@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Balatro / Retro Arcade Palette -->
+    <color name="bg_dark">#121816</color>
+    <color name="surface_card">#1c2622</color>
+    <color name="surface_card_border">#2d3e38</color>
+    <color name="surface_card_accent">#25352f</color>
+
+    <color name="cell_alive">#00FFA3</color>
+    <color name="cell_newborn">#38EF7D</color>
+    <color name="cell_dead">#17201c</color>
+    <color name="grid_line">#1f2c27</color>
+
+    <!-- Balatro-esque chip colors -->
+    <color name="balatro_blue">#0095FF</color>
+    <color name="balatro_red">#FE5F55</color>
+    <color name="balatro_orange">#FDA700</color>
+    <color name="balatro_gold">#E8C252</color>
+
+    <color name="text_primary">#F4F8F6</color>
+    <color name="text_secondary">#8CA399</color>
+    <color name="text_accent">#00FFA3</color>
+
+    <color name="btn_play">#00FFA3</color>
+    <color name="btn_pause">#FE5F55</color>
+    <color name="btn_secondary">#293b34</color>
+</resources>

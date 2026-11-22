@@ -1,0 +1,10 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Glider Icon -->
+    <path
+        android:fillColor="#00FFA3"
+        android:pathData="M54,28h12v12h-12z M66,40h12v12h-12z M42,52h12v12h-12z M54,52h12v12h-12z M66,52h12v12h-12z"/>
+</vector>
